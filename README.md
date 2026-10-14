@@ -1,4 +1,4 @@
-# Week 5 — Clean Code and Generics
+# Week 1 — Clean Code and Generics
 
 Tolv minioppgaver med romfartstema, selvstendige .NET 10-konsollprosjekter og gradvis mindre startstøtte. Vi går fra lesbar kode og konkrete typer til egne generiske klasser og metoder. 
 
